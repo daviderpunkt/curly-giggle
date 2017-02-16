@@ -1,0 +1,3 @@
+Public static void print(){
+  System.out.println("Success");
+  }
